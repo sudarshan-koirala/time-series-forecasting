@@ -1,0 +1,7 @@
+xgboost
+jupyterlab
+nb-black
+pandas
+matplotlib
+scikit-learn
+watermark
