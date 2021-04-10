@@ -7,3 +7,5 @@ scikit-learn
 watermark
 tqdm
 ipywidgets
+statsmodels
+pmdarima
