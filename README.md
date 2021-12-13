@@ -17,3 +17,12 @@ Assuming you have anaconda installed
 2. Activate the conda env -> `source/conda activate forecast`
 3. Install all the packages -> `pip/pip3 install -r requirements.txt`
 4. Run jupyterlab -> `jupyter lab`
+
+### Types of sensor data
+```
+Live Data: I want to know when something is not working.
+Historical Data: I want to keep logs of when something has and has not been working.
+Analytical Data: I want to understand why something isn’t working.
+Predictive Data: I want to know when something will stop working.
+Data for Change: I want to change how something works.
+```
